@@ -5,4 +5,5 @@
 
 运行结果：
 
-![Uploading image.png…]()
+![image](https://github.com/UestcXiye/OpenGL_RotateCube/assets/58623498/10befda7-64f7-413b-ba69-3968aa1f66e7)
+
